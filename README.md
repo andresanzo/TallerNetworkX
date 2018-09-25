@@ -1,5 +1,5 @@
-# TallerNetworkX
-Programas en python usados en el Taller de NetworkX,
+# Taller Introducción al análisis de Redes Complejas con Python y NetworkX
+Programas en python usados en el Taller,
 
 Este repositorio contiene los códigos hechos en Python que se usarán en el Taller de NetworkX. 
 
